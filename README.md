@@ -15,7 +15,7 @@ Then run,
 
 ./make_list.sh  list.txt
 
-At this point you'll have 67 directories filled with limit.txt file in each one of the corresponding the different BR combination (tW, bH, and bZ) order, which you can see
+At this point you'll have 67 directories filled with limit.txt file in each one of the corresponding different BR combination (tW, bH, and bZ) order, which you can see
 in the list.txt file what order it is in. The make_list.sh file will cat your combinedModel.out so make sure its in the same directory as the make_list.sh script. I used the
 limits_multi_higgs_15apr13_10pc directory to put all this in (after you have a look at mine as an example you can delete the multilepton_v directories)
 
